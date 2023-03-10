@@ -22,3 +22,9 @@ Now let's create a checklist
 - [ ] List item 2 - This is unchecked
 - [ ] List item 3 - This is also unchecked
 - [ ] list item 4 - This is also unchecked
+
+
+Das ist eine Einfache Checkliste:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
