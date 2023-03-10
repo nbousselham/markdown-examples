@@ -8,4 +8,10 @@ Als erstes werden wir anschaulichen, wie die Header in einer Markdown-Datei auss
 ###### This is `H6` Header 
 
 Now it's time to add a picture 
-![This is an image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[This is an image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Now we will add some code in markdown language annotation: 
+```
+$git init
+This command will initialize the project and add it to version control using Git
+```
